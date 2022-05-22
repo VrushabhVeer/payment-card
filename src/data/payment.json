@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "image": "https://www.freepnglogos.com/uploads/amazon-png-logo-vector/amazon-icon-symbol-png-logo-21.png",
+        "date": "28 Oct 2020",
+        "company": "Amazon Gift",
+        "bg": "rgb(255,165,0)",
+        "type": "Payment",
+        "product": "Desktop - Mobile"
+    },
+
+    {
+        "id": "2",
+        "image": "https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-index-content-uploads-10.png",
+        "date": "17 Sep 2020",
+        "company": "Apple Gift",
+        "type": "Payment",
+        "product": "MacOS - Mobile"
+    }
+]
